@@ -1,0 +1,10 @@
+{
+  "editor.formatOnSave": true,
+  "eslint.validate": ["javascript"],
+  "files.exclude": {
+    "**/.git": true,
+    "**/.DS_Store": true,
+    "**/node_modules": true
+  },
+  "explorer.compactFolders": false
+}
